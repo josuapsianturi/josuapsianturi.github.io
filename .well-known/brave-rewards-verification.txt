@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: josuapsianturi.me
+Token: 2ae550cb045dc1e8b7adbd43f68cb142075391009caa3d1ff105f4cd6d403379
